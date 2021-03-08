@@ -1,3 +1,26 @@
+# Soccer League Standings
+
+This is a take-home project completed by Kurt Tomlinson for Jane Technologies, Inc. in March 2021.
+
+## How to run
+
+```
+chmod +x ./soccer.rb
+cat ./sample-input.txt | ./soccer.rb
+```
+
+## How to test
+
+```
+rspec ./*_spec.rb
+```
+
+---
+
+---
+
+---
+
 ## The Problem
 
 We want you to create a command-line application that reads a listing of game
